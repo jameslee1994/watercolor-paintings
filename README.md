@@ -3,6 +3,8 @@
 ## Background
 In 2018, I took my first watercolor painting lesson. I set a goal to paint 100 paintings. It was a lot of work, and it took me two years to achieve my goal, but I did it, I liked it, and the hobby stuck. Since then I have painted over 220 paintings (sold nearly 100 of them!), exhibited in a number of professional shows and competitions, and have even received some awards.
 
+Check me out on instagram if you want to see some of my work: https://www.instagram.com/jimleewatercolors/
+
 This project involved putting my personal watercolor painting records into a SQLite database so I could look back on my watercolor journey. The dataset combines painting metadata (title, size, subject/location, status), show participation, sales, and awards so I can answer questions about my painting and sales trends.
 
 All of the analysis queries (and the findings summarized below) live in **`analysis_queries.sql`**.
